@@ -1,4 +1,4 @@
-# Código de introdução ao Python
+# Código de introdução ao Scoket
 <h1 align="center">Socket</h1>
 
 ## Descrição do Projeto
